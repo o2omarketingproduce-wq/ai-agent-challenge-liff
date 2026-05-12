@@ -195,7 +195,7 @@ async function initAll() {
 
     // LIFF
     try {
-        await liff.init({ liffId: "YOUR_LIFF_ID" });
+        await liff.init({ liffId: "2008778548-Ja5OX0el" });
         if (!liff.isLoggedIn()) {
             liff.login();
         }
