@@ -12,7 +12,7 @@ const GAS_URL = "https://script.google.com/macros/s/AKfycbzov6Wc1dXvPLof-6IrnuMU
 
 function onYouTubeIframeAPIReady() {
     player = new YT.Player('player', {
-        videoId: 'dQw4w9WgXcQ', // 必要に応じて実際の動画IDに変更
+        videoId: '9s0SCBfOyWI', // 2026-05-12 本番動画
         playerVars: {
             'autoplay': 0,
             'controls': 1,
