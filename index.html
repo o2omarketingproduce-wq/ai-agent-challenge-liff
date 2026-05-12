@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>AI Innovate | 5-Day Challenge</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://static.line-scdn.net/liff/edge/2/sdk.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <header class="app-header">
+        <div class="logo">
+            <i class="fas fa-brain"></i>
+            AI <span>INNOVATE</span>
+        </div>
+        <div class="header-actions">
+            <button id="btnShare" style="background: none; border: none; color: var(--text-muted);"><i class="fas fa-share-nodes"></i></button>
+        </div>
+    </header>
+
+    <!-- 診断モーダル（AIレベル診断） -->
+    <div id="diagnostic-modal" class="overlay" style="display:none;">
+        <div class="glass-card diagnostic-content">
+            <h2>AIエージェント構築チャレンジへようこそ</h2>
+            <p>最適なカリキュラムをご案内するため、現在の状況を教えてください。</p>
+            <div class="diagnostic-options">
+                <button class="diag-btn" onclick="handleDiagnostic('beginner')">AI・プログラミング未経験</button>
+                <button class="diag-btn" onclick="handleDiagnostic('intermediate')">構築経験がある・ツールは触ったことがある</button>
+                <button class="diag-btn" onclick="handleDiagnostic('advanced')">既にビジネスに導入している・導入中</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- カウントダウン待機画面 -->
+    <div id="countdown-overlay" class="overlay">
+        <div class="glass-card countdown-content">
+            <div class="live-badge">LIVE</div>
+            <h2>AIエージェント構築チャレンジ Day 1</h2>
+            <p>ライブ配信開始まで</p>
+            <div id="timer" class="timer-display">00:00</div>
+            <div class="waiting-users">
+                <span class="pulse-dot"></span> 現在 <span id="waiting-count">124</span> 名が待機中...
+            </div>
+        </div>
+    </div>
+
+    <!-- リアクション・ボタン -->
+    <div id="reaction-container">
+        <button onclick="sendReaction('🔥')" class="reaction-btn">🔥</button>
+        <button onclick="sendReaction('👏')" class="reaction-btn">👏</button>
+        <button onclick="sendReaction('❤️')" class="reaction-btn">❤️</button>
+        <button onclick="sendReaction('🚀')" class="reaction-btn">🚀</button>
+    </div>
+
+    <!-- 浮遊するリアクションの表示エリア -->
+    <div id="floating-reactions"></div>
+
+    <main>
+        <!-- Video Player Section -->
+        <div class="video-container">
+            <div id="player"></div>
+        </div>
+
+        <div class="content-area">
+            <div class="video-info">
+                <span class="live-badge">Live</span>
+                <h1 style="font-size: 1.25rem; margin-top: 0.5rem;">AI Agent Construction Challenge: Day 5</h1>
+                <p style="color: var(--text-muted); font-size: 0.875rem; margin-top: 0.25rem;">1,452 users online</p>
+            </div>
+
+            <!-- Chat Section -->
+            <div class="chat-section" id="chatBox">
+                <!-- Messages will be injected here -->
+            </div>
+        </div>
+    </main>
+
+    <!-- Call to Action Section -->
+    <div class="cta-container" id="ctaArea">
+        <button class="cta-button" id="btnCTA">
+            REGISTER FOR THE CHALLENGE <i class="fas fa-arrow-right"></i>
+        </button>
+        <p style="text-align: center; color: var(--text-muted); font-size: 0.75rem; margin-top: 0.75rem;">Join over 15,000+ Innovators!</p>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,534 @@
+{
+  "data": [
+    {
+      "id": "b0e0uI9alfAK",
+      "name": "UTAGEに興味あり",
+      "subscriber_count": 153,
+      "created_at": "2023-07-04 23:41:28",
+      "updated_at": "2023-09-29 16:38:35"
+    },
+    {
+      "id": "OSViMq7Wnofe",
+      "name": "男性",
+      "subscriber_count": 7,
+      "created_at": "2023-09-29 16:38:09",
+      "updated_at": "2023-09-29 16:38:35"
+    },
+    {
+      "id": "ZF1ATmeQXOJe",
+      "name": "ファネルクリエイター興味あり",
+      "subscriber_count": 8,
+      "created_at": "2023-09-29 12:16:05",
+      "updated_at": "2023-09-29 16:38:35"
+    },
+    {
+      "id": "zddhTUOxeEcW",
+      "name": "コンテンツクリエイター興味あり",
+      "subscriber_count": 8,
+      "created_at": "2023-09-29 12:17:31",
+      "updated_at": "2023-09-29 16:38:35"
+    },
+    {
+      "id": "u25b8NQBE6Bn",
+      "name": "ファネル構築合宿に興味あり",
+      "subscriber_count": 4,
+      "created_at": "2023-09-29 12:18:00",
+      "updated_at": "2023-09-29 16:38:35"
+    },
+    {
+      "id": "TS3keFYSCqD9",
+      "name": "えるらぼサロンに興味あり",
+      "subscriber_count": 12,
+      "created_at": "2023-09-29 13:18:26",
+      "updated_at": "2023-09-29 16:38:35"
+    },
+    {
+      "id": "x4ezcf32z3sL",
+      "name": "女性",
+      "subscriber_count": 17,
+      "created_at": "2023-09-29 16:38:53",
+      "updated_at": "2023-09-29 16:38:53"
+    },
+    {
+      "id": "bZ4XJ2wOiizD",
+      "name": "〜20代",
+      "subscriber_count": 2,
+      "created_at": "2023-09-29 16:39:07",
+      "updated_at": "2023-09-29 16:39:07"
+    },
+    {
+      "id": "WbsldHqiLgYd",
+      "name": "30代",
+      "subscriber_count": 5,
+      "created_at": "2023-09-29 16:39:14",
+      "updated_at": "2023-09-29 16:39:14"
+    },
+    {
+      "id": "OmDXmR04LHSz",
+      "name": "40代",
+      "subscriber_count": 7,
+      "created_at": "2023-09-29 16:39:22",
+      "updated_at": "2023-09-29 16:39:22"
+    },
+    {
+      "id": "mGJJV59CiJuF",
+      "name": "50代",
+      "subscriber_count": 5,
+      "created_at": "2023-09-29 16:39:29",
+      "updated_at": "2023-09-29 16:39:29"
+    },
+    {
+      "id": "tJo2b5Qdei2p",
+      "name": "60代",
+      "subscriber_count": 4,
+      "created_at": "2023-09-29 16:39:37",
+      "updated_at": "2023-09-29 16:39:37"
+    },
+    {
+      "id": "kFg6SlIbzPtZ",
+      "name": "70代〜",
+      "subscriber_count": 0,
+      "created_at": "2023-09-29 16:39:54",
+      "updated_at": "2023-09-29 16:39:54"
+    },
+    {
+      "id": "9F1UkIMxf5pI",
+      "name": "コンサルタント",
+      "subscriber_count": 7,
+      "created_at": "2023-09-29 16:40:06",
+      "updated_at": "2023-09-29 16:40:06"
+    },
+    {
+      "id": "Cwsxt6sOMAAQ",
+      "name": "店舗",
+      "subscriber_count": 1,
+      "created_at": "2023-09-29 16:41:04",
+      "updated_at": "2023-09-29 16:41:04"
+    },
+    {
+      "id": "EDybnJkdZnhe",
+      "name": "物販",
+      "subscriber_count": 0,
+      "created_at": "2023-09-29 16:41:11",
+      "updated_at": "2023-09-29 16:41:11"
+    },
+    {
+      "id": "yH893VBYekbZ",
+      "name": "何もしていない",
+      "subscriber_count": 4,
+      "created_at": "2023-09-29 16:41:20",
+      "updated_at": "2023-09-29 16:41:20"
+    },
+    {
+      "id": "m14DyO4FGGsg",
+      "name": "北海道",
+      "subscriber_count": 0,
+      "created_at": "2023-09-29 16:41:28",
+      "updated_at": "2023-09-29 16:41:28"
+    },
+    {
+      "id": "5nn9fRsl98tb",
+      "name": "東北地方",
+      "subscriber_count": 2,
+      "created_at": "2023-09-29 16:41:41",
+      "updated_at": "2023-09-29 16:41:41"
+    },
+    {
+      "id": "nxA9Rlnu8Asd",
+      "name": "関東地方",
+      "subscriber_count": 11,
+      "created_at": "2023-09-29 16:41:52",
+      "updated_at": "2023-09-29 16:41:52"
+    },
+    {
+      "id": "PuF4jT5ZrffT",
+      "name": "中部地方",
+      "subscriber_count": 1,
+      "created_at": "2023-09-29 16:42:01",
+      "updated_at": "2023-09-29 16:42:01"
+    },
+    {
+      "id": "UTHqR1cm357t",
+      "name": "近畿地方",
+      "subscriber_count": 3,
+      "created_at": "2023-09-29 16:42:13",
+      "updated_at": "2023-09-29 16:42:13"
+    },
+    {
+      "id": "0xWcJi4uCdw1",
+      "name": "中国地方",
+      "subscriber_count": 0,
+      "created_at": "2023-09-29 16:42:22",
+      "updated_at": "2023-09-29 16:42:22"
+    },
+    {
+      "id": "F0ROSQQQBmdk",
+      "name": "四国地方",
+      "subscriber_count": 0,
+      "created_at": "2023-09-29 16:42:31",
+      "updated_at": "2023-09-29 16:42:31"
+    },
+    {
+      "id": "xGAQyCAIu5AX",
+      "name": "九州地方",
+      "subscriber_count": 4,
+      "created_at": "2023-09-29 16:42:44",
+      "updated_at": "2023-09-29 16:42:44"
+    },
+    {
+      "id": "OVclK2A8EDRP",
+      "name": "沖縄",
+      "subscriber_count": 0,
+      "created_at": "2023-09-29 16:42:51",
+      "updated_at": "2023-09-29 16:42:51"
+    },
+    {
+      "id": "RxUBC6BMAQLp",
+      "name": "マーケティング",
+      "subscriber_count": 8,
+      "created_at": "2023-09-29 16:43:21",
+      "updated_at": "2023-09-29 16:43:21"
+    },
+    {
+      "id": "8LRhWTsSAQsn",
+      "name": "コンテンツ作成",
+      "subscriber_count": 4,
+      "created_at": "2023-09-29 16:43:31",
+      "updated_at": "2023-09-29 16:43:31"
+    },
+    {
+      "id": "ilE4EyzggCiu",
+      "name": "動画編集",
+      "subscriber_count": 1,
+      "created_at": "2023-09-29 16:43:43",
+      "updated_at": "2023-09-29 16:43:43"
+    },
+    {
+      "id": "Ji1sRhVr7Xku",
+      "name": "自動化ツールUTAGE",
+      "subscriber_count": 3,
+      "created_at": "2023-09-29 16:44:00",
+      "updated_at": "2023-09-29 16:44:00"
+    },
+    {
+      "id": "uFcygIhVgyHG",
+      "name": "広告",
+      "subscriber_count": 1,
+      "created_at": "2023-09-29 16:44:13",
+      "updated_at": "2023-09-29 16:44:13"
+    },
+    {
+      "id": "jNrNdeORvPDy",
+      "name": "SNS活用",
+      "subscriber_count": 4,
+      "created_at": "2023-09-29 16:44:30",
+      "updated_at": "2023-09-29 16:44:30"
+    },
+    {
+      "id": "0jQyujvLq3mB",
+      "name": "コピーライティング",
+      "subscriber_count": 0,
+      "created_at": "2023-09-29 16:44:49",
+      "updated_at": "2023-09-29 16:44:49"
+    },
+    {
+      "id": "gdXRIB4Vhi67",
+      "name": "LPデザイン",
+      "subscriber_count": 1,
+      "created_at": "2023-09-29 16:44:58",
+      "updated_at": "2023-09-29 16:44:58"
+    },
+    {
+      "id": "dqNRiCSaS7JO",
+      "name": "ライブ配信",
+      "subscriber_count": 2,
+      "created_at": "2023-09-29 16:45:13",
+      "updated_at": "2023-09-29 16:45:13"
+    },
+    {
+      "id": "PcdOzIRKbZfV",
+      "name": "起業済み",
+      "subscriber_count": 7,
+      "created_at": "2023-09-29 16:45:45",
+      "updated_at": "2023-09-29 16:45:45"
+    },
+    {
+      "id": "Gdht9FSluMDp",
+      "name": "副業済み",
+      "subscriber_count": 10,
+      "created_at": "2023-09-29 16:45:55",
+      "updated_at": "2023-09-29 16:45:55"
+    },
+    {
+      "id": "gBSNCRcLRsMB",
+      "name": "toB",
+      "subscriber_count": 4,
+      "created_at": "2023-09-29 16:46:05",
+      "updated_at": "2023-09-29 16:46:05"
+    },
+    {
+      "id": "V5gP1YbFWcBD",
+      "name": "toC",
+      "subscriber_count": 15,
+      "created_at": "2023-09-29 16:46:12",
+      "updated_at": "2023-09-29 16:46:12"
+    },
+    {
+      "id": "WdKd9rKB4Kfv",
+      "name": "目標月商100万円",
+      "subscriber_count": 11,
+      "created_at": "2023-09-29 16:46:40",
+      "updated_at": "2023-09-29 16:46:40"
+    },
+    {
+      "id": "GIiNywsO2rSs",
+      "name": "目標月商250万円",
+      "subscriber_count": 3,
+      "created_at": "2023-09-29 16:46:52",
+      "updated_at": "2023-09-29 16:46:52"
+    },
+    {
+      "id": "wAGDvDTAWvOG",
+      "name": "目標月商250万円以上",
+      "subscriber_count": 5,
+      "created_at": "2023-09-29 16:47:07",
+      "updated_at": "2023-09-29 16:47:07"
+    },
+    {
+      "id": "FY7Ydo5KQxCg",
+      "name": "商品単価５０万円以下",
+      "subscriber_count": 18,
+      "created_at": "2023-09-29 16:47:36",
+      "updated_at": "2023-09-29 16:47:36"
+    },
+    {
+      "id": "YYOY91mloG4U",
+      "name": "商品単価５１万円〜１００万円",
+      "subscriber_count": 0,
+      "created_at": "2023-09-29 16:47:54",
+      "updated_at": "2023-09-29 16:47:54"
+    },
+    {
+      "id": "fjRrp3k7cOnY",
+      "name": "商品単価１００万円以上",
+      "subscriber_count": 1,
+      "created_at": "2023-09-29 16:48:07",
+      "updated_at": "2023-09-29 16:48:07"
+    },
+    {
+      "id": "nN31bLd5GhY9",
+      "name": "集客経路SNS",
+      "subscriber_count": 13,
+      "created_at": "2023-09-29 16:48:32",
+      "updated_at": "2023-09-29 16:48:32"
+    },
+    {
+      "id": "nMm81xuY0oED",
+      "name": "集客経路ブログ",
+      "subscriber_count": 1,
+      "created_at": "2023-09-29 16:48:42",
+      "updated_at": "2023-09-29 16:48:42"
+    },
+    {
+      "id": "20rA0VJhEXpw",
+      "name": "集客経路YouTube",
+      "subscriber_count": 1,
+      "created_at": "2023-09-29 16:48:54",
+      "updated_at": "2023-09-29 16:48:54"
+    },
+    {
+      "id": "z8NEHR9cqhZ4",
+      "name": "集客経路広告",
+      "subscriber_count": 0,
+      "created_at": "2023-09-29 16:49:06",
+      "updated_at": "2023-09-29 16:49:06"
+    },
+    {
+      "id": "wAJkEEYTqgPs",
+      "name": "集客経路紹介",
+      "subscriber_count": 2,
+      "created_at": "2023-09-29 16:49:27",
+      "updated_at": "2023-09-29 16:49:27"
+    },
+    {
+      "id": "Uvij5379uGBU",
+      "name": "集客経路営業",
+      "subscriber_count": 3,
+      "created_at": "2023-09-29 16:49:36",
+      "updated_at": "2023-09-29 16:49:36"
+    },
+    {
+      "id": "4b2zElupUyQF",
+      "name": "オンライン講座",
+      "subscriber_count": 1,
+      "created_at": "2023-09-29 17:06:49",
+      "updated_at": "2023-09-29 17:06:49"
+    },
+    {
+      "id": "hpxixH7QJs5H",
+      "name": "オンラインコース",
+      "subscriber_count": 1,
+      "created_at": "2023-09-29 17:07:00",
+      "updated_at": "2023-09-29 17:07:00"
+    },
+    {
+      "id": "pehther2zcLA",
+      "name": "認定講師ビジネス",
+      "subscriber_count": 2,
+      "created_at": "2023-09-29 17:07:11",
+      "updated_at": "2023-09-29 17:07:11"
+    },
+    {
+      "id": "udZQomzu9Yhz",
+      "name": "合宿に興味あり",
+      "subscriber_count": 5,
+      "created_at": "2023-10-02 08:59:45",
+      "updated_at": "2023-10-02 08:59:53"
+    },
+    {
+      "id": "nCGMYRYyEaV2",
+      "name": "パートナーに興味あり",
+      "subscriber_count": 0,
+      "created_at": "2023-10-06 17:05:20",
+      "updated_at": "2023-10-06 17:05:20"
+    },
+    {
+      "id": "jVf8IYqiSOrU",
+      "name": "事業形態１：１",
+      "subscriber_count": 0,
+      "created_at": "2023-10-06 17:08:13",
+      "updated_at": "2023-10-06 17:08:13"
+    },
+    {
+      "id": "4zbZ8X3xRsXW",
+      "name": "事業形態１：多（対面）",
+      "subscriber_count": 0,
+      "created_at": "2023-10-06 17:08:32",
+      "updated_at": "2023-10-06 17:08:32"
+    },
+    {
+      "id": "JiCaMeJbgNSs",
+      "name": "事業形態（１：多）オンライン完結",
+      "subscriber_count": 0,
+      "created_at": "2023-10-06 17:08:50",
+      "updated_at": "2023-10-06 17:08:50"
+    },
+    {
+      "id": "GxbjPxaSQZFX",
+      "name": "勝ちファネル構築コンプリートバンドル購入",
+      "subscriber_count": 0,
+      "created_at": "2023-11-01 12:10:50",
+      "updated_at": "2023-11-01 12:10:50"
+    },
+    {
+      "id": "WIO7taCUF1R0",
+      "name": "ウェビナー参加",
+      "subscriber_count": 40,
+      "created_at": "2023-11-27 03:25:37",
+      "updated_at": "2023-11-27 03:25:37"
+    },
+    {
+      "id": "rhXIvyzGcwa6",
+      "name": "FunnelLAB",
+      "subscriber_count": 45,
+      "created_at": "2023-11-27 03:25:53",
+      "updated_at": "2023-11-27 03:25:53"
+    },
+    {
+      "id": "mg2JCucrll1l",
+      "name": "UTAGE申し込み",
+      "subscriber_count": 108,
+      "created_at": "2023-11-27 03:27:00",
+      "updated_at": "2023-11-27 03:27:00"
+    },
+    {
+      "id": "xAORqCp2d5sj",
+      "name": "セミナー無断キャンセル",
+      "subscriber_count": 5,
+      "created_at": "2024-01-11 22:49:53",
+      "updated_at": "2024-01-11 22:49:53"
+    },
+    {
+      "id": "5MbYIj6KEgnt",
+      "name": "ウェビナー参加",
+      "subscriber_count": 2,
+      "created_at": "2024-01-14 11:25:03",
+      "updated_at": "2024-01-14 11:25:03"
+    },
+    {
+      "id": "wfMrSpdKuM5I",
+      "name": "【FunnelLAB】セミナー参加",
+      "subscriber_count": 15,
+      "created_at": "2024-02-01 16:45:18",
+      "updated_at": "2024-02-01 16:45:18"
+    },
+    {
+      "id": "I5yK4OUfqF3F",
+      "name": "FunnelLABセミナーに興味",
+      "subscriber_count": 58,
+      "created_at": "2024-02-01 16:46:32",
+      "updated_at": "2024-02-01 16:46:32"
+    },
+    {
+      "id": "8eTH121AVkeR",
+      "name": "サミット１日目参加",
+      "subscriber_count": 73,
+      "created_at": "2024-02-28 19:47:37",
+      "updated_at": "2024-02-28 19:47:37"
+    },
+    {
+      "id": "HyfqMKVUrWRD",
+      "name": "サミット２日目",
+      "subscriber_count": 27,
+      "created_at": "2024-02-28 19:47:48",
+      "updated_at": "2024-02-28 19:47:48"
+    },
+    {
+      "id": "ssEQw6X77pRf",
+      "name": "チャレンジ講座Day１出席",
+      "subscriber_count": 43,
+      "created_at": "2024-03-20 22:15:02",
+      "updated_at": "2024-03-20 22:15:02"
+    },
+    {
+      "id": "2EZNQYLK61aU",
+      "name": "チャレンジ講座Day２出席",
+      "subscriber_count": 38,
+      "created_at": "2024-03-20 22:15:12",
+      "updated_at": "2024-03-20 22:15:12"
+    },
+    {
+      "id": "p4OWIVcYFM08",
+      "name": "チャレンジ講座Day３出席",
+      "subscriber_count": 35,
+      "created_at": "2024-03-20 22:15:20",
+      "updated_at": "2024-03-20 22:15:20"
+    },
+    {
+      "id": "Sodd7CF7LLqc",
+      "name": "Day3参加",
+      "subscriber_count": 0,
+      "created_at": "2024-03-22 14:44:45",
+      "updated_at": "2024-03-22 14:44:45"
+    },
+    {
+      "id": "FazCUwv3CgCw",
+      "name": "6月サミット参加",
+      "subscriber_count": 107,
+      "created_at": "2024-05-25 02:11:20",
+      "updated_at": "2024-05-25 02:11:20"
+    },
+    {
+      "id": "SM6B49ty89Zm",
+      "name": "出入り禁止",
+      "subscriber_count": 1,
+      "created_at": "2024-06-06 21:29:03",
+      "updated_at": "2024-06-06 21:29:03"
+    }
+  ],
+  "meta": {
+    "current_page": 1,
+    "per_page": 100,
+    "total": 75
+  }
+}
